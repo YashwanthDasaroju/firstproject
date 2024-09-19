@@ -1,2 +1,2 @@
 # firstproject
-author - yashwanth
+author - yashwanth vicky
